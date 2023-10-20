@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MitsuakiKun
-- 👀 I’m interested in AI programming and Deta science.
+- 👀 I’m interested in Software development.
 - 🌱 I’m currently learning C-language and Java in Colledge.
+- This is my blog[(Qiita)](https://qiita.com/saboro_1028).
 
 <!---
 MitsuakiKun/MitsuakiKun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
