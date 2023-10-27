@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MitsuakiKun
 - 👀 I’m interested in Software development.
-- 🌱 I’m currently learning C-language and Java in Colledge.
+- 🌱 I’m currently learning Software Engineering in Colledge.
 - This is my blog[(Qiita)](https://qiita.com/saboro_1028).
 
 <!---
